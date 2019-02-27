@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'bundler', '~> 1.16', '>= 1.16.1'
+=======
+gem 'bundler', '~> 1.3.0', '>= 1.3.0'
+>>>>>>> 330b781ca5535652d3e46423c64d9b2660428a89
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 4.2'
 # Use sqlite3 as the database for Active Record
